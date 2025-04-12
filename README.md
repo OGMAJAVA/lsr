@@ -1,6 +1,5 @@
 ENGLISH
 
-Description
 This project allows you to easily remove all liked songs from your Spotify account using the Python script. It uses the Spotipy library to interact with the Spotify Web API, giving you full control over your saved tracks.
 
 
@@ -13,7 +12,6 @@ If you want to trust the file, you can add it as an exception in your antivirus 
 --------------------------------------------------------
 FINNISH
 
-Kuvaus
 Tämä projekti mahdollistaa kaikki Spotify-tililläsi olevat tykätyt kappaleet poistamisen Python-skriptillä. Se käyttää Spotipy-kirjastoa vuorovaikutukseen Spotify Web API:n kanssa, jolloin sinulla on täysi hallinta tallennettuihin kappaleisiin.
 
 
